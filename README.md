@@ -8,8 +8,8 @@ Developed in Node.js v13.2.0
 
 ## Future Improvements? ##
 * Use a faster algorithm to compute cell states
-  * Develop a GUI for the game
-* Allow user input
+* Develop a GUI for the game
+  * Allow user input
 * Expand into 3-dimensional space / grid wrapping
 * Implement asynchronous capabilities
   * Example: stop game while it is running -> add new cells -> continue game
