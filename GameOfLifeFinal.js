@@ -90,7 +90,7 @@ class GameOfLife {
         this.build();
     }
 
-    // post: starts game, running to 50 generations max
+    // post: starts game, running up to the number of generations specified by GEN_LIMIT
     start() {
         let self = this;
         console.log("Generation #: " + self.genNum);
